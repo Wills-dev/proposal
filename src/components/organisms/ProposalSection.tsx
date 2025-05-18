@@ -18,7 +18,7 @@ const ProposalSection = () => {
         "service_2dkcxp4", // Replace with your EmailJS Service ID
         "template_klitn7m", // Replace with your EmailJS Template ID
         {
-          to_email: "ejioguvictor6@gmail.com",
+          email: "ejioguvictor6@gmail.com",
           message: "She said yes!",
         },
         "yLLG4GQw9pt8jmzDJ" // Replace with your EmailJS User ID OR Public key
