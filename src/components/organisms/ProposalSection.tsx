@@ -52,7 +52,7 @@ const ProposalSection = () => {
         ) : (
           <>
             <h1 className="text-3xl md:text-4xl text-pink-200 font-bold mb-6">
-              Hi Chiamka Grace Oke
+              Hi Chiamka Grace Ogoke
             </h1>
             <MessageBlock />
             <ButtonGroup onButtonClick={handleButtonClick} />{" "}
